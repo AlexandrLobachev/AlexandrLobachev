@@ -20,6 +20,7 @@
 
 
 ---
-- :mailbox: Мои контакты: [![Telegram Badge](https://img.shields.io/badge/-AlexandrLobachev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AlexandrLobachev)
-  [![Mail Badge](https://img.shields.io/badge/-Mail-Blue?style=flat&logo=Mail&logoColor=white)](mailto:a.a.lobachev@mail.com)
 
+### :mailbox: Мои контакты: 
+Telegram: [![Telegram Badge](https://img.shields.io/badge/-AlexandrLobachev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AlexandrLobachev)
+E-mail: chk22rus@bk.ru
